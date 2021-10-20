@@ -33,7 +33,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://github.com/dwyl/learn-elixir
 - https://keyvanakbary.github.io/learning-notes/books/effective-java/
 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
-
+- https://sourcemaking.com/design_patterns 
 
 ### CS stuff
 
