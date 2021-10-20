@@ -33,7 +33,6 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://github.com/dwyl/learn-elixir
 - https://keyvanakbary.github.io/learning-notes/books/effective-java/
 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
-- https://sourcemaking.com/design_patterns 
 
 ### CS stuff
 
@@ -45,6 +44,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html [ Monads in Haskell ]
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB [ MIT Distributed Systems lectures ]
 - https://www.youtube.com/watch?v=XcT4yYu_TTs [ Clean code ]
+- https://sourcemaking.com/design_patterns 
 
 
 ### Build 
