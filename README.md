@@ -55,6 +55,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://browser.engineering/ [ Browser ]
 - https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency [ Blockchain ]
 - https://github.com/EmilHernvall/dnsguide [ DNS ]
+- https://github.com/tidb-incubator/tinykv [ Distributed KV store ]
 
 
 ### Kewl stuff
