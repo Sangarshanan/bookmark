@@ -7,7 +7,6 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://tatiyants.com/pev/#/plans [ Visualize PG query plans ]
 - https://curl.trillworks.com/ [ Curl to Requests ]
 
-
 ### Backend stuff
 
 - http://www.kegel.com/c10k.html
@@ -24,7 +23,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 
 - https://keyvanakbary.github.io/learning-notes/books/designing-data-intensive-applications/ 
 - https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html
-
+- https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b#fe4f [ Kafka Cheat Sheet ]
 
 ### Prog Language stuff
 
@@ -80,3 +79,4 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 
 - https://www.musicca.com/piano
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
+- https://learningmusic.ableton.com/
