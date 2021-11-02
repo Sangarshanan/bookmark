@@ -7,11 +7,11 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://tatiyants.com/pev/#/plans [ Visualize PG query plans ]
 - https://curl.trillworks.com/ [ Curl to Requests ]
 
-### Backend stuff
+### Web/ Backend stuff
 
 - http://www.kegel.com/c10k.html
 - https://sudhir.io/the-big-little-guide-to-message-queues/
-
+- https://fullstackopen.com/en/about [ Full stack webdev course ]
 
 ### Streaming stuff
 
