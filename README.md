@@ -17,7 +17,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 
 - https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/
 - https://timelydataflow.github.io/differential-dataflow/introduction.html
-
+- https://www.cloudkarafka.com/blog/what-does-in-sync-in-apache-kafka-really-mean.html
 
 ### Data stuff
 
@@ -44,7 +44,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB [ MIT Distributed Systems lectures ]
 - https://www.youtube.com/watch?v=XcT4yYu_TTs [ Clean code ]
 - https://sourcemaking.com/design_patterns 
-
+- https://stackfull.dev/tree-data-structure-in-javascript [ Data Structures ]
 
 ### Build 
 
