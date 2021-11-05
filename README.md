@@ -2,10 +2,17 @@
 
 Links, Notes and Bookmarks amongst other things I sometimes care about
 
-### Shit! what was that site
 
-- https://tatiyants.com/pev/#/plans [ Visualize PG query plans ]
-- https://curl.trillworks.com/ [ Curl to Requests ]
+### Kewl stuff
+
+- https://explorabl.es/ [ Explorable Explanation ]
+- https://learnxinyminutes.com/ [ Learn X in Y minutes ]
+- https://plaza.one/ [ MUSIC ]
+- http://zoomquilt2.com/ [ Trippy Fractal Zoom ]
+- https://15.ai/ [ Text to Voice ]
+- https://musclewiki.com/ [ Workout ]
+- https://excalidraw.com/ [ Draw shit ]
+
 
 ### Web/ Backend stuff
 
@@ -57,14 +64,10 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://github.com/tidb-incubator/tinykv [ Distributed KV store ]
 
 
-### Kewl stuff
+### Shit! what was that site
 
-- https://explorabl.es/ [ Explorable Explanation ]
-- https://learnxinyminutes.com/ [ Learn X in Y minutes ]
-- https://plaza.one/ [ MUSIC ]
-- http://zoomquilt2.com/ [ Trippy Fractal Zoom ]
-- https://15.ai/ [ Text to Voice ]
-- https://musclewiki.com/ [ Workout ]
+- https://tatiyants.com/pev/#/plans [ Visualize PG query plans ]
+- https://curl.trillworks.com/ [ Curl to Requests ]
 
 
 ### Misc Nerdy stuff
