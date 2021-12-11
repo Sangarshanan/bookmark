@@ -19,12 +19,15 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - http://www.kegel.com/c10k.html
 - https://sudhir.io/the-big-little-guide-to-message-queues/
 - https://fullstackopen.com/en/about [ Full stack webdev course ]
+- https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve [ Event driven Reactor Pattern ] 
 
 ### Streaming stuff
 
 - https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/
 - https://timelydataflow.github.io/differential-dataflow/introduction.html
 - https://www.cloudkarafka.com/blog/what-does-in-sync-in-apache-kafka-really-mean.html
+- https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb 
+- https://stackoverflow.com/questions/65847537/what-is-the-best-way-to-have-a-cache-of-an-external-database-in-flink
 
 ### Data stuff
 
@@ -34,11 +37,18 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 
 ### Prog Language stuff
 
+- https://exercism.org/ [ Learn by exercises ]
+- https://www.codewars.com/ [ Learn by exercises ]
 - https://doc.rust-lang.org/rust-by-example/index.html
 - https://gobyexample.com/
 - https://github.com/dwyl/learn-elixir
 - https://keyvanakbary.github.io/learning-notes/books/effective-java/
 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+- https://www.youtube.com/watch?v=qCGofLIzX6g [ How Python was Shaped by leaky Internals by Armin Ronacher ]
+- https://pythonspeed.com/articles/rust-cython-python-extensions/ [ choosing a language for Python extensions ]
+- https://www.youtube.com/watch?v=bmZNaUcwBt4 [ Why Go ]
+- https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60 [ Garbage collection in Go vs Java ]
+- https://github.com/EbTech/rust-algorithms [ Algorithms in Rust ]
 
 ### CS stuff
 
@@ -52,6 +62,8 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://www.youtube.com/watch?v=XcT4yYu_TTs [ Clean code ]
 - https://sourcemaking.com/design_patterns 
 - https://stackfull.dev/tree-data-structure-in-javascript [ Data Structures ]
+- https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect [ Interview ]
+- https://www.psl.com/feed-posts/web3-engineer-take [ A take on Web3 ] 
 
 ### Build 
 
@@ -83,3 +95,5 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://www.musicca.com/piano
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://learningmusic.ableton.com/
+- https://www.youtube.com/watch?v=ZvSSeuzN_b4
+- https://towardsdatascience.com/mathematics-of-music-in-python-b7d838c84f72
