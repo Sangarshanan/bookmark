@@ -12,7 +12,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://15.ai/ [ Text to Voice ]
 - https://musclewiki.com/ [ Workout ]
 - https://excalidraw.com/ [ Draw shit ]
-
+- https://github.com/ojack/hydra [ livecoding networked visuals ]
 
 ### Web/ Backend stuff
 
