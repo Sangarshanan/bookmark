@@ -1,4 +1,4 @@
-### the unbearable lightness of being
+# the unbearable lightness of being
 
 Dec 2021
 
@@ -11,7 +11,7 @@ A single metaphor can give birth to love.
 
 Not even one's own pain weighs so heavy as the pain one feels with someone, for someone a pain intensified by the imagination and prolonged by a hundred echoes.
 
-Anyone whose goal is "something higher" must expect some day to suffer vertigo.
+Anyone whose goal is 'something higher' must expect someday to suffer vertigo. What is vertigo? Fear of falling? No, Vertigo is something other than fear of falling. It is the voice of the emptiness below us which tempts and lures us, it is the desire to fall, against which, terrified, we defend ourselves
 
 if you're looking for infinity, just close your eyes
 
