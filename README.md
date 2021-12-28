@@ -13,6 +13,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://musclewiki.com/ [ Workout ]
 - https://excalidraw.com/ [ Draw shit ]
 - https://github.com/ojack/hydra [ livecoding networked visuals ]
+- https://www.inkandswitch.com/ [ Cool Software Research Blog ]
 
 ### Web/ Backend stuff
 
@@ -89,6 +90,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://boris-marinov.github.io/category-theory-illustrated/04_order/ [category theory]
 - https://www.youtube.com/watch?v=wTJI_WuZSwE [ 3Blue1Brown: Impossible chessboard puzzle ]
 - https://offbyone.us/posts/playing-with-hilbert/ [ Hilbert curves and a carefully crafted rickroll ]
+- https://www.youtube.com/watch?v=3s7h2MHQtxc&t=3s [ 3Blue1Brown Hilbert curves ]
 
 ### Music
 
