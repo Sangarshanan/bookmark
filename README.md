@@ -92,6 +92,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.youtube.com/watch?v=wTJI_WuZSwE [ 3Blue1Brown: Impossible chessboard puzzle ]
 - https://offbyone.us/posts/playing-with-hilbert/ [ Hilbert curves and a carefully crafted rickroll ]
 - https://www.youtube.com/watch?v=3s7h2MHQtxc&t=3s [ 3Blue1Brown Hilbert curves ]
+- https://www.quantamagazine.org/how-pi-connects-colliding-blocks-to-a-quantum-search-algorithm-20200121/
+- https://www.youtube.com/watch?v=OxGsU8oIWjY&vl=en [ Infinite Hotel Paradox ]
 
 ### Music
 
@@ -100,3 +102,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://learningmusic.ableton.com/
 - https://www.youtube.com/watch?v=ZvSSeuzN_b4
 - https://towardsdatascience.com/mathematics-of-music-in-python-b7d838c84f72
+
+### Art
+
+- https://webglfundamentals.org/ [ WebGl Fundamentals ]
+- https://prajwalsouza.github.io/ [ Dope shit ]
