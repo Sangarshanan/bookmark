@@ -5,6 +5,8 @@ Dec 2021 | Milan Kundera
 Melancholy is one way to describe this book that absolutely destroyed me towards the end, It's beautiful 
 in the way it ties deep philosophical concepts with a coherent storyline.
 
+### stuff
+
 In the sunset of dissolution, everything is illuminated by the aura of nostalgia, even the guillotine.
 
 A single metaphor can give birth to love.

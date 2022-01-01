@@ -20,7 +20,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - http://www.kegel.com/c10k.html
 - https://sudhir.io/the-big-little-guide-to-message-queues/
 - https://fullstackopen.com/en/about [ Full stack webdev course ]
-- https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve [ Event driven Reactor Pattern ] 
+- https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve [ Event driven Reactor Pattern ]
 
 ### Streaming stuff
 
@@ -35,6 +35,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://keyvanakbary.github.io/learning-notes/books/designing-data-intensive-applications/ 
 - https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html
 - https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b#fe4f [ Kafka Cheat Sheet ]
+- https://sujithjay.com/data-systems/dynamo-cassandra [Distributed Databases]
 
 ### Prog Language stuff
 
@@ -50,6 +51,7 @@ Links, Notes and Bookmarks amongst other things I sometimes care about
 - https://www.youtube.com/watch?v=bmZNaUcwBt4 [ Why Go ]
 - https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60 [ Garbage collection in Go vs Java ]
 - https://github.com/EbTech/rust-algorithms [ Algorithms in Rust ]
+- https://sadh.life/post/ast/ [ Learn Python ASTs, by building your own linter ]
 
 ### CS stuff
 
