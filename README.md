@@ -1,7 +1,6 @@
-# Random Internet Stuff Dungeon
+# My Internet Stuff Dungeon
 
-Links, Notes and Bookmarks amongst other things I sometimes care about
-
+Collection of Links, Notes, Books, Music and more random things that make up my online dungeon
 
 ### Kewl stuff
 

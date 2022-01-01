@@ -72,7 +72,7 @@ Now we just need to split each stage into a set of tasks (data + computation) an
 
 Our stage one is scheduled by distributing tasks across our nodes
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6cbdac01-161f-4a91-888e-4ce0698e812c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6cbdac01-161f-4a91-888e-4ce0698e812c/Untitled.png)
+![../static/MR_schedule.png](../static/MR_schedule.png)
 
 Aaron Barry Ava —-MAP—> [A, B, A] and now stage two starts with a `groupby` and since our data is already distributed across nodes in a particular way we need to redistribute it again
 
@@ -84,7 +84,7 @@ This process is called **Spark shuffle**
 
 Shuffle is a very expensive operation as involves moving the data across nodes but hashing keys into buckets so that same hashes are in the same node and it is easier for `groupby` to take over
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df4f3785-bc3f-415f-80f5-3a9c8cd48f7f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df4f3785-bc3f-415f-80f5-3a9c8cd48f7f/Untitled.png)
+![../static/MR_shuffle.png](../static/MR_shuffle.png)
 
 There are a lot of ways to reduce the overhead of shuffle, we can either partition the data beforehand and skip this step or perform partial aggregation while mapping over data to reduce the overall data movement. We can also increase the number of partitions to speed up the step
 

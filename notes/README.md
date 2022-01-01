@@ -1,0 +1,1 @@
+Notes I made on dope things I have read on the edges of the internet. If I put more effort into it they could be nice blogs but for now just notes
