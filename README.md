@@ -66,6 +66,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://stackfull.dev/tree-data-structure-in-javascript [ Data Structures ]
 - https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect [ Interview ]
 - https://www.psl.com/feed-posts/web3-engineer-take [ A take on Web3 ] 
+- https://github.com/papers-we-love/papers-we-love [ Papaar E Papaaar ]
 
 ### Build 
 
@@ -106,4 +107,5 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 ### Art
 
 - https://webglfundamentals.org/ [ WebGl Fundamentals ]
+- http://tidalcycles.org/ [ Live coding music with Algorithmic patterns ]
 - https://prajwalsouza.github.io/ [ Dope shit ]
