@@ -20,6 +20,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://sudhir.io/the-big-little-guide-to-message-queues/
 - https://fullstackopen.com/en/about [ Full stack webdev course ]
 - https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve [ Event driven Reactor Pattern ]
+- https://ably.com/blog/introducing-the-websocket-handbook [ Websocket ]
 
 ### Streaming stuff
 
@@ -35,6 +36,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html
 - https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b#fe4f [ Kafka Cheat Sheet ]
 - https://sujithjay.com/data-systems/dynamo-cassandra [Distributed Databases]
+- https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi [ Andy Pavlo lectures PS: I am in love with andy ]
 
 ### Prog Language stuff
 
@@ -67,6 +69,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect [ Interview ]
 - https://www.psl.com/feed-posts/web3-engineer-take [ A take on Web3 ] 
 - https://github.com/papers-we-love/papers-we-love [ Papaar E Papaaar ]
+- https://branislavjenco.github.io/desired-state-systems/ [Desired state: how React, Kubernetes and control theory have lots in common]
 
 ### Build 
 
@@ -95,17 +98,21 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.youtube.com/watch?v=3s7h2MHQtxc&t=3s [ 3Blue1Brown Hilbert curves ]
 - https://www.quantamagazine.org/how-pi-connects-colliding-blocks-to-a-quantum-search-algorithm-20200121/
 - https://www.youtube.com/watch?v=OxGsU8oIWjY&vl=en [ Infinite Hotel Paradox ]
+- https://ciechanow.ski/gps/ [ About GPS ]  
 
-### Music
+### Music Art Dance
 
 - https://www.musicca.com/piano
-- Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://learningmusic.ableton.com/
-- https://www.youtube.com/watch?v=ZvSSeuzN_b4
 - https://towardsdatascience.com/mathematics-of-music-in-python-b7d838c84f72
-
-### Art
-
 - https://webglfundamentals.org/ [ WebGl Fundamentals ]
 - http://tidalcycles.org/ [ Live coding music with Algorithmic patterns ]
+- https://github.com/terkelg/awesome-creative-coding
+- https://genuary.art/ [ Participate ]
+- https://github.com/Tonejs/Tone.js
+- https://www.youtube.com/playlist?list=PLJTWoPGfHxQH5zdZN6UlMPwZerVApkqmk [ Music Theory from the Ground Up ]
 - https://prajwalsouza.github.io/ [ Dope shit ]
+- https://github.com/toplap/awesome-livecoding/blob/master/README.md
+Sonic pi
+- Sonic Pi examples https://github.com/euruband/sonic-pi-examples
+- https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
