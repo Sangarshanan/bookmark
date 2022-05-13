@@ -80,6 +80,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/danistefanovic/build-your-own-x#build-your-own-blockchain--cryptocurrency [ Blockchain ]
 - https://github.com/EmilHernvall/dnsguide [ DNS ]
 - https://github.com/tidb-incubator/tinykv [ Distributed KV store ]
+- https://third-bit.com/sdxjs/index.html [Software Design by Example]
 
 
 ### Shit! what was that site
