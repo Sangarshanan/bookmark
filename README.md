@@ -37,6 +37,9 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b#fe4f [ Kafka Cheat Sheet ]
 - https://sujithjay.com/data-systems/dynamo-cassandra [Distributed Databases]
 - https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi [ Andy Pavlo lectures PS: I am in love with andy ]
+- https://medium.com/baseds [distributed systems]
+- https://15445.courses.cs.cmu.edu/fall2019/notes/ [ CMU DB course ]
+- https://notes.eatonphil.com/distributed-postgres.html
 
 ### Prog Language stuff
 
@@ -53,6 +56,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60 [ Garbage collection in Go vs Java ]
 - https://github.com/EbTech/rust-algorithms [ Algorithms in Rust ]
 - https://sadh.life/post/ast/ [ Learn Python ASTs, by building your own linter ]
+- https://javascript.info/ [ Javascript ]
 
 ### CS stuff
 
