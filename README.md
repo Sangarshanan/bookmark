@@ -40,6 +40,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://medium.com/baseds [distributed systems]
 - https://15445.courses.cs.cmu.edu/fall2019/notes/ [ CMU DB course ]
 - https://notes.eatonphil.com/distributed-postgres.html
+- https://www.scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/
 
 ### Prog Language stuff
 
