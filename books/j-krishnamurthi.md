@@ -1,4 +1,6 @@
-This was J Krishnamurthy biography written by Pupul Jayakar
+June 2022
+
+I am reading the J Krishnamurthy biography written by Pupul Jayakar
 
 Very interesting history lesson on the Theosophical society & a glimpse into India during the British times.
 
