@@ -77,6 +77,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://branislavjenco.github.io/desired-state-systems/ [Desired state: how React, Kubernetes and control theory have lots in common]
 - https://github.com/tssovi/grokking-the-object-oriented-design-interview
 - https://www.learncsdesign.com/an-overview-of-distributed-caching/
+- https://github.com/srghma/library/tree/master/seven%20in%20seven [ Seven-in-Seven books i.e concurrency models, DB, lang, web-frameworks] 
 
 ### Build 
 
