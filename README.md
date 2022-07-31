@@ -77,7 +77,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://branislavjenco.github.io/desired-state-systems/ [Desired state: how React, Kubernetes and control theory have lots in common]
 - https://github.com/tssovi/grokking-the-object-oriented-design-interview
 - https://www.learncsdesign.com/an-overview-of-distributed-caching/
-- https://github.com/srghma/library/tree/master/seven%20in%20seven [ Seven-in-Seven books i.e concurrency models, DB, lang, web-frameworks] 
+- https://github.com/srghma/library/tree/master/seven%20in%20seven [ Seven-in-Seven books i.e concurrency models, DB, lang, web-frameworks]
 
 ### Build 
 
@@ -125,4 +125,5 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 Sonic pi
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
+- http://msp.ucsd.edu/techniques/latest/book-html/node5.html [ PureData: Theory and Technique of Electronic Music ]
 
