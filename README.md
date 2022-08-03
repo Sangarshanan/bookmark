@@ -59,6 +59,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/EbTech/rust-algorithms [ Algorithms in Rust ]
 - https://sadh.life/post/ast/ [ Learn Python ASTs, by building your own linter ]
 - https://javascript.info/ [ Javascript ]
+- https://www.youtube.com/watch?v=2HOO5gIgyMg [ Complex Concurrency Patterns with Go ]
 
 ### CS stuff
 
