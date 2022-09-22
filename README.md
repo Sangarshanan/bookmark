@@ -29,6 +29,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.cloudkarafka.com/blog/what-does-in-sync-in-apache-kafka-really-mean.html
 - https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb 
 - https://stackoverflow.com/questions/65847537/what-is-the-best-way-to-have-a-cache-of-an-external-database-in-flink
+- https://www.youtube.com/watch?v=zWSdkGq1XWk&list=PLqs87sfbAM0EESOXJN0rP_hRHu3hRANcb&index=9 [Materialize Incremental View Maintenance]
 
 ### Data stuff
 
