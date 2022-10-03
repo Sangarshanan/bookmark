@@ -43,6 +43,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://notes.eatonphil.com/distributed-postgres.html
 - https://www.scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/
 - https://github.com/immerok/recipes [ Flink Recipes ]
+- https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf [ Dynamo DB paper ]
 
 ### Prog Language stuff
 
