@@ -130,5 +130,5 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 Sonic pi
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
-- http://msp.ucsd.edu/techniques/latest/book-html/node5.html [ PureData: Theory and Technique of Electronic Music ]
+- https://www.soundonsound.com/series/synth-secrets-sound-sound
 
