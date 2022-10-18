@@ -83,6 +83,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/tssovi/grokking-the-object-oriented-design-interview
 - https://www.learncsdesign.com/an-overview-of-distributed-caching/
 - https://github.com/srghma/library/tree/master/seven%20in%20seven [ Seven-in-Seven books i.e concurrency models, DB, lang, web-frameworks]
+- https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges [ Migrations at Scale with real world examples ]
 
 ### Build 
 
