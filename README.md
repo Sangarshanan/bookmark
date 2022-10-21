@@ -63,6 +63,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://javascript.info/ [ Javascript ]
 - https://www.youtube.com/watch?v=2HOO5gIgyMg [ Complex Concurrency Patterns with Go ]
 - https://go.dev/doc/effective_go [ Effective Go ]
+- https://medium.com/@derfrb/concurrency-in-go-shared-memory-a2ef201b396b [ Concurrency in Go: shared memory ]
 
 ### CS stuff
 
