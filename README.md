@@ -44,6 +44,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/
 - https://github.com/immerok/recipes [ Flink Recipes ]
 - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf [ Dynamo DB paper ]
+- https://github.com/airbytehq/SQL-Levels-Explained [ SQL Levels ]
 
 ### Prog Language stuff
 
@@ -64,6 +65,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.youtube.com/watch?v=2HOO5gIgyMg [ Complex Concurrency Patterns with Go ]
 - https://go.dev/doc/effective_go [ Effective Go ]
 - https://medium.com/@derfrb/concurrency-in-go-shared-memory-a2ef201b396b [ Concurrency in Go: shared memory ]
+- https://encore.dev/blog/advanced-go-concurrency [ Advanced go concurrency ]
 
 ### CS stuff
 
