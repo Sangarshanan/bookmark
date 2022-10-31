@@ -104,6 +104,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 
 - https://tatiyants.com/pev/#/plans [ Visualize PG query plans ]
 - https://curl.trillworks.com/ [ Curl to Requests ]
+- https://quizgecko.com/ [ AI Quiz Generator ]
 
 
 ### Misc Nerdy stuff
