@@ -45,6 +45,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/immerok/recipes [ Flink Recipes ]
 - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf [ Dynamo DB paper ]
 - https://github.com/airbytehq/SQL-Levels-Explained [ SQL Levels ]
+- https://www.brianstorti.com/replication/ [ Primer on DB replication ]
 
 ### Prog Language stuff
 
