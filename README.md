@@ -136,4 +136,6 @@ Sonic pi
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
 - https://www.soundonsound.com/series/synth-secrets-sound-sound
-
+Livecoding
+- https://forum.toplap.org/
+- https://livecode.nyc/
