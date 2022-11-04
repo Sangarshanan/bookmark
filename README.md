@@ -134,9 +134,9 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://prajwalsouza.github.io/ [ Dope shit ]
 - https://github.com/toplap/awesome-livecoding/blob/master/README.md
 Sonic pi
+- Forum https://in-thread.sonic-pi.net/t/sonic-pi-online-resources/17
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
-- https://www.soundonsound.com/series/synth-secrets-sound-sound
 Livecoding
 - https://forum.toplap.org/
 - https://livecode.nyc/
