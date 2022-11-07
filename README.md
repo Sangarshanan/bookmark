@@ -30,6 +30,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb 
 - https://stackoverflow.com/questions/65847537/what-is-the-best-way-to-have-a-cache-of-an-external-database-in-flink
 - https://www.youtube.com/watch?v=zWSdkGq1XWk&list=PLqs87sfbAM0EESOXJN0rP_hRHu3hRANcb&index=9 [Materialize Incremental View Maintenance]
+- https://github.com/memphisdev/memphis-broker [Real-Time Data Processing Platform]
 
 ### Data stuff
 
@@ -88,6 +89,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.learncsdesign.com/an-overview-of-distributed-caching/
 - https://github.com/srghma/library/tree/master/seven%20in%20seven [ Seven-in-Seven books i.e concurrency models, DB, lang, web-frameworks]
 - https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges [ Migrations at Scale with real world examples ]
+- https://github.com/DovAmir/awesome-design-patterns [ Design Patterns ]
+- https://github.com/ossu/computer-science
 
 ### Build 
 
@@ -106,6 +109,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://tatiyants.com/pev/#/plans [ Visualize PG query plans ]
 - https://curl.trillworks.com/ [ Curl to Requests ]
 - https://quizgecko.com/ [ AI Quiz Generator ]
+- https://github.com/public-apis/public-apis [ Public APIs ]
 
 
 ### Misc Nerdy stuff
