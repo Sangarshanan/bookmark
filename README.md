@@ -137,6 +137,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.youtube.com/playlist?list=PLJTWoPGfHxQH5zdZN6UlMPwZerVApkqmk [ Music Theory from the Ground Up ]
 - https://prajwalsouza.github.io/ [ Dope shit ]
 - https://github.com/toplap/awesome-livecoding/blob/master/README.md
+- https://www.youtube.com/watch?v=kuwn_DGXoNI [ Hydra visuals ]
 
 Sonic pi
 
