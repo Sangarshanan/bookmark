@@ -47,6 +47,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf [ Dynamo DB paper ]
 - https://github.com/airbytehq/SQL-Levels-Explained [ SQL Levels ]
 - https://www.brianstorti.com/replication/ [ Primer on DB replication ]
+- https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray [ Pandas performance ]
 
 ### Prog Language stuff
 
