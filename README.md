@@ -48,6 +48,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/airbytehq/SQL-Levels-Explained [ SQL Levels ]
 - https://www.brianstorti.com/replication/ [ Primer on DB replication ]
 - https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray [ Pandas performance ]
+- https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ [ Vectorization in OLAP ]
 
 ### Prog Language stuff
 
