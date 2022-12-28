@@ -31,6 +31,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://stackoverflow.com/questions/65847537/what-is-the-best-way-to-have-a-cache-of-an-external-database-in-flink
 - https://www.youtube.com/watch?v=zWSdkGq1XWk&list=PLqs87sfbAM0EESOXJN0rP_hRHu3hRANcb&index=9 [Materialize Incremental View Maintenance]
 - https://github.com/memphisdev/memphis-broker [Real-Time Data Processing Platform]
+- https://github.com/frankmcsherry/blog [ Frank !!!! ]
 
 ### Data stuff
 
