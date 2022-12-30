@@ -95,6 +95,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges [ Migrations at Scale with real world examples ]
 - https://github.com/DovAmir/awesome-design-patterns [ Design Patterns ]
 - https://github.com/ossu/computer-science
+- https://mon.school/courses/the-joy-of-programming [ Joy of Programming By Anand Chitipothu ] 
 
 ### Build 
 
