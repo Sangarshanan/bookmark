@@ -13,6 +13,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://excalidraw.com/ [ Draw shit ]
 - https://github.com/ojack/hydra [ livecoding networked visuals ]
 - https://www.inkandswitch.com/ [ Cool Software Research Blog ]
+- https://clickcalculators.com/chmod/ [ Chmod permissions calculator ]
 
 ### Web/ Backend stuff
 
