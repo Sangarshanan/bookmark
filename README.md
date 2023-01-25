@@ -53,6 +53,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ [ Vectorization in OLAP ]
 - https://ml-ops.org/ [ MLOps ]
 - https://jalammar.github.io/illustrated-transformer/ [ The Transformer ChatGPT ]
+- https://timilearning.com/ [ Cool Data blogs ]
 
 ### Prog Language stuff
 
