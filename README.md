@@ -52,6 +52,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray [ Pandas performance ]
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ [ Vectorization in OLAP ]
 - https://ml-ops.org/ [ MLOps ]
+- https://jalammar.github.io/illustrated-transformer/ [ The Transformer ChatGPT ]
 
 ### Prog Language stuff
 
