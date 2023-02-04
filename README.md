@@ -15,6 +15,12 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.inkandswitch.com/ [ Cool Software Research Blog ]
 - https://clickcalculators.com/chmod/ [ Chmod permissions calculator ]
 
+### Ask HN
+
+- https://news.ycombinator.com/item?id=32220192 [ YouTube Channels for the Intellectually Curious]
+- https://news.ycombinator.com/item?id=32186203 [ Data structures ]
+- https://news.ycombinator.com/item?id=32935412 [ Books ]
+
 ### Web/ Backend stuff
 
 - http://www.kegel.com/c10k.html
@@ -54,6 +60,9 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://ml-ops.org/ [ MLOps ]
 - https://jalammar.github.io/illustrated-transformer/ [ The Transformer ChatGPT ]
 - https://timilearning.com/ [ Cool Data blogs ]
+- http://daslab.seas.harvard.edu/rum-conjecture/ [ The RUM Conjecture ]
+- https://www.pinecone.io/learn/vector-database/ [ Vector ]
+- https://jalammar.github.io/illustrated-transformer/ [ Transformer ]
 
 ### Prog Language stuff
 
@@ -75,6 +84,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://go.dev/doc/effective_go [ Effective Go ]
 - https://medium.com/@derfrb/concurrency-in-go-shared-memory-a2ef201b396b [ Concurrency in Go: shared memory ]
 - https://encore.dev/blog/advanced-go-concurrency [ Advanced go concurrency ]
+- https://realpython.com/python-mmap/ [ MMAP ]
+
 
 ### CS stuff
 
@@ -118,6 +129,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://curl.trillworks.com/ [ Curl to Requests ]
 - https://quizgecko.com/ [ AI Quiz Generator ]
 - https://github.com/public-apis/public-apis [ Public APIs ]
+- https://maroofy.com/ [ Discover similar music ]
+- https://play-cs.com/en/servers [ CS go online ]
 
 
 ### Misc Nerdy stuff
@@ -147,13 +160,14 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/toplap/awesome-livecoding/blob/master/README.md
 - https://www.youtube.com/watch?v=kuwn_DGXoNI [ Hydra visuals ]
 
-Sonic pi
+### Sonic pi
 
 - Forum https://in-thread.sonic-pi.net/t/sonic-pi-online-resources/17
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
 - People: https://github.com/tig3rbabu https://www.youtube.com/channel/UCHJC-u1wITtLbpxNP_lQMqw
 
-Livecoding
+### Livecoding
+
 - https://forum.toplap.org/
 - https://livecode.nyc/
