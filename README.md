@@ -111,7 +111,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/ossu/computer-science
 - https://mon.school/courses/the-joy-of-programming [ Joy of Programming By Anand Chitipothu ] 
 
-### Build 
+### System & Design 
 
 - https://github.com/danistefanovic/build-your-own-x 
 - http://intermezzos.github.io/book/first-edition/ [ Build an OS ]
@@ -121,7 +121,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/EmilHernvall/dnsguide [ DNS ]
 - https://github.com/tidb-incubator/tinykv [ Distributed KV store ]
 - https://third-bit.com/sdxjs/index.html [Software Design by Example]
-
+- https://martinfowler.com/articles/lmax.html [ handle scale with a single thread architecture ]
 
 ### Shit! what was that site
 
