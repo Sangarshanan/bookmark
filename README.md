@@ -11,7 +11,6 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://15.ai/ [ Text to Voice ]
 - https://musclewiki.com/ [ Workout ]
 - https://excalidraw.com/ [ Draw shit ]
-- https://github.com/ojack/hydra [ livecoding networked visuals ]
 - https://www.inkandswitch.com/ [ Cool Software Research Blog ]
 - https://clickcalculators.com/chmod/ [ Chmod permissions calculator ]
 
@@ -160,6 +159,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://prajwalsouza.github.io/ [ Dope shit ]
 - https://github.com/toplap/awesome-livecoding/blob/master/README.md
 - https://www.youtube.com/watch?v=kuwn_DGXoNI [ Hydra visuals ]
+- https://github.com/ertdfgcvb/play.core [ live-code ] https://play.ertdfgcvb.xyz/
 
 ### Sonic pi
 
