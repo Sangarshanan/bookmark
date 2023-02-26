@@ -62,6 +62,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - http://daslab.seas.harvard.edu/rum-conjecture/ [ The RUM Conjecture ] Paper: https://scholar.harvard.edu/files/stratos/files/rum-tutorial.pdf?m=1461167186#:~:text=2.,time%2C%20for%20all%20three%20goals.
 - https://www.pinecone.io/learn/vector-database/ [ Vector ]
 - https://jalammar.github.io/illustrated-transformer/ [ Transformer ]
+- https://www.scylladb.com/tech-talk/scylla-disney-hotstar-on-demand-streaming-service/
 
 ### Prog Language stuff
 
