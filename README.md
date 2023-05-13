@@ -48,18 +48,16 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi [ Andy Pavlo lectures PS: I am in love with andy ]
 - https://medium.com/baseds [distributed systems]
 - https://15445.courses.cs.cmu.edu/fall2019/notes/ [ CMU DB course ]
-- https://www.scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/
-- https://github.com/immerok/recipes [ Flink Recipes ]
 - https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf [ Dynamo DB paper ]
 - https://github.com/airbytehq/SQL-Levels-Explained [ SQL Levels ]
 - https://www.brianstorti.com/replication/ [ Primer on DB replication ]
 - https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray [ Pandas performance ]
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ [ Vectorization in OLAP ]
-- https://ml-ops.org/ [ MLOps ]
 - https://jalammar.github.io/illustrated-transformer/ [ The Transformer ChatGPT ]
 - https://timilearning.com/ [ Cool Data blogs ]
 - http://daslab.seas.harvard.edu/rum-conjecture/ [ The RUM Conjecture ] Paper: https://scholar.harvard.edu/files/stratos/files/rum-tutorial.pdf?m=1461167186#:~:text=2.,time%2C%20for%20all%20three%20goals.
-- https://jalammar.github.io/illustrated-transformer/ [ Transformer ]
+- https://db.cs.cmu.edu/papers/2017/p781-wu.pdf [ BEST MVCC PAPER ]
+- https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/
 
 ### Prog Language stuff
 
