@@ -58,6 +58,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - http://daslab.seas.harvard.edu/rum-conjecture/ [ The RUM Conjecture ] Paper: https://scholar.harvard.edu/files/stratos/files/rum-tutorial.pdf?m=1461167186#:~:text=2.,time%2C%20for%20all%20three%20goals.
 - https://db.cs.cmu.edu/papers/2017/p781-wu.pdf [ BEST MVCC PAPER ]
 - https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/
+- https://fly.io/dist-sys/ [ distributed systems challenges ]
+
 
 ### Prog Language stuff
 
@@ -129,17 +131,19 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://topmate.io/about [ Creator market ]
 
 
-### Misc Nerdy stuff
+### Nerdgasm worth revisiting
 
 - https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/ [Physics]
 - https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html [Physics]
-- https://boris-marinov.github.io/category-theory-illustrated/04_order/ [category theory]
 - https://www.youtube.com/watch?v=wTJI_WuZSwE [ 3Blue1Brown: Impossible chessboard puzzle ]
 - https://offbyone.us/posts/playing-with-hilbert/ [ Hilbert curves and a carefully crafted rickroll ]
-- https://www.youtube.com/watch?v=3s7h2MHQtxc&t=3s [ 3Blue1Brown Hilbert curves ]
+- https://www.youtube.com/watch?v=3s7h2MHQtxc [ 3Blue1Brown Hilbert curves ]
 - https://www.quantamagazine.org/how-pi-connects-colliding-blocks-to-a-quantum-search-algorithm-20200121/
 - https://www.youtube.com/watch?v=OxGsU8oIWjY&vl=en [ Infinite Hotel Paradox ]
 - https://ciechanow.ski/gps/ [ About GPS ]  
+- https://www.youtube.com/watch?v=spUNpyF58BY [Fourier Transform]
+- https://www.youtube.com/watch?v=FFftmWSzgmk [ Mandelbrot ]
+
 
 ### Music Art Dance
 
@@ -168,3 +172,4 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 
 - https://forum.toplap.org/
 - https://livecode.nyc/
+
