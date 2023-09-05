@@ -23,21 +23,10 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 ### Web/ Backend stuff
 
 - http://www.kegel.com/c10k.html
-- https://sudhir.io/the-big-little-guide-to-message-queues/
 - https://fullstackopen.com/en/about [ Full stack webdev course ]
 - https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve [ Event driven Reactor Pattern ]
 - https://ably.com/blog/introducing-the-websocket-handbook [ Websocket ]
 
-### Streaming stuff
-
-- https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/
-- https://timelydataflow.github.io/differential-dataflow/introduction.html
-- https://www.cloudkarafka.com/blog/what-does-in-sync-in-apache-kafka-really-mean.html
-- https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb 
-- https://stackoverflow.com/questions/65847537/what-is-the-best-way-to-have-a-cache-of-an-external-database-in-flink
-- https://www.youtube.com/watch?v=zWSdkGq1XWk&list=PLqs87sfbAM0EESOXJN0rP_hRHu3hRANcb&index=9 [Materialize Incremental View Maintenance]
-- https://github.com/memphisdev/memphis-broker [Real-Time Data Processing Platform]
-- https://github.com/frankmcsherry/blog [ Frank !!!! ]
 
 ### Data stuff
 
@@ -107,6 +96,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/DovAmir/awesome-design-patterns [ Design Patterns ]
 - https://github.com/ossu/computer-science
 - https://mon.school/courses/the-joy-of-programming [ Joy of Programming By Anand Chitipothu ] 
+- https://missing.csail.mit.edu/ [ Missing Semester of Your CS ]
+- https://cpu.land/ [ what happens when you run a program on your computer? ]
 
 ### System & Design 
 

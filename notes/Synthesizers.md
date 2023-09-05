@@ -85,3 +85,5 @@ LFOs are used a lot in dubstep and bass heavy electronic tracks for creating a s
 - https://www.aulart.com/blog/oscillator-waveforms-types-and-uses-part-i/#!
 - https://blog.soundparticles.com/synth-tutorial-eg-explained
 - https://www.musicgateway.com/blog/how-to/what-is-a-synthesizer-the-beginners-guide-together-in-electric-dreams
+- https://www.reddit.com/r/Python/comments/lw50ne/making_a_synthesizer_using_python/
+
