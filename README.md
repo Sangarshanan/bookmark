@@ -151,6 +151,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://github.com/toplap/awesome-livecoding/blob/master/README.md
 - https://www.youtube.com/watch?v=kuwn_DGXoNI [ Hydra visuals ]
 - https://github.com/ertdfgcvb/play.core [ live-code ] https://play.ertdfgcvb.xyz/
+- https://glicol.org/tour [ Rust livecoder ]
 
 ### Sonic pi
 
