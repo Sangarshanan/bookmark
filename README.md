@@ -152,6 +152,9 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.youtube.com/watch?v=kuwn_DGXoNI [ Hydra visuals ]
 - https://github.com/ertdfgcvb/play.core [ live-code ] https://play.ertdfgcvb.xyz/
 - https://glicol.org/tour [ Rust livecoder ]
+- https://www.youtube.com/watch?v=1RIA9U5oXro [ Sample rate vs Bit Depth ]
+- https://musicinformationretrieval.com/index.html [ MIR ]
+
 
 ### Sonic pi
 
