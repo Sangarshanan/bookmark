@@ -30,6 +30,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 
 ### Data stuff
 
+- https://www.thenile.dev/blog/transaction-isolation-postgres [ transaction isolation ]
 - https://keyvanakbary.github.io/learning-notes/books/designing-data-intensive-applications/ 
 - https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html
 - https://medium.com/@TimvanBaarsen/apache-kafka-cli-commands-cheat-sheet-a6f06eac01b#fe4f [ Kafka Cheat Sheet ]
@@ -48,7 +49,9 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://db.cs.cmu.edu/papers/2017/p781-wu.pdf [ BEST MVCC PAPER ]
 - https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/
 - https://fly.io/dist-sys/ [ distributed systems challenges ]
-
+- https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1
+- https://www.farley.ai/posts/causal [ Causal Trees CRDT ]
+- https://www.interdb.jp/pg/index.html [Postgres Internals]
 
 ### Prog Language stuff
 
@@ -98,6 +101,8 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://mon.school/courses/the-joy-of-programming [ Joy of Programming By Anand Chitipothu ] 
 - https://missing.csail.mit.edu/ [ Missing Semester of Your CS ]
 - https://cpu.land/ [ what happens when you run a program on your computer? ]
+- https://www.youtube.com/watch?v=KkenLT8S9Hs [ How does an OS boot]
+- https://app.codecrafters.io/catalog [ Build things and learn prog Languages]
 
 ### System & Design 
 
@@ -154,6 +159,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://glicol.org/tour [ Rust livecoder ]
 - https://www.youtube.com/watch?v=1RIA9U5oXro [ Sample rate vs Bit Depth ]
 - https://musicinformationretrieval.com/index.html [ MIR ]
+- https://tympanus.net/codrops/2023/02/07/audio-reactive-shaders-with-three-js-and-shader-park/ [ Audio Reactive Shaders ]
 
 
 ### Sonic pi
