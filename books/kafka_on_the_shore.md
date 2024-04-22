@@ -33,3 +33,8 @@ Beyond the edge of the world there's a space where emptiness and substance neatl
 
 "Every one of us is losing something precious to us," he says after the phone stops ringing. "Lost opportunities, lost possibilities, feelings we can never get back again. That's part of what it means to be alive.
 
+
+Update:
+
+I also read Norwegian wood which is by far one of the saddest books i have ever read like goddamn Murakami where the magic at now?
+
