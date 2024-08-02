@@ -78,6 +78,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 
 ### CS stuff
 
+- https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/download/ [ Advanced Data Structures ]
 - http://aosabook.org/en/index.html [Architecture of Open Source Applications]
 - https://rustwasm.github.io/book/what-is-webassembly.html
 - https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
