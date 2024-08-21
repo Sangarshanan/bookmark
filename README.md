@@ -142,6 +142,10 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://www.youtube.com/watch?v=FFftmWSzgmk [ Mandelbrot ]
 
 
+### Music production
+
+- https://www.youtube.com/watch?v=IJ7iyHqPwhU&list=PLa9ASr8n5idAk2PpFepVai33M4AT7I3Z0 [Ableton Live 10 Ultimate Tutorial]
+
 ### Music Art Dance
 
 - https://www.musicca.com/piano
@@ -163,7 +167,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://tympanus.net/codrops/2023/02/07/audio-reactive-shaders-with-three-js-and-shader-park/ [ Audio Reactive Shaders ]
 
 
-### Sonic pi
+### Sonic Pi
 
 - Forum https://in-thread.sonic-pi.net/t/sonic-pi-online-resources/17
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
