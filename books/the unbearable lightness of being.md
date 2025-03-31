@@ -2,8 +2,7 @@
 
 Dec 2021 | Milan Kundera
 
-Melancholy is one way to describe this book that absolutely destroyed me towards the end, It's beautiful 
-in the way it ties deep philosophical concepts with a coherent storyline.
+Melancholy is one way to describe this book that absolutely destroyed me towards the end, It's beautiful in the way it ties deep philosophical concepts with a coherent storyline.
 
 ### stuff
 
