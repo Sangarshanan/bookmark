@@ -104,6 +104,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://cpu.land/ [ what happens when you run a program on your computer? ]
 - https://www.youtube.com/watch?v=KkenLT8S9Hs [ How does an OS boot]
 - https://app.codecrafters.io/catalog [ Build things and learn prog Languages]
+- https://florian.github.io//xor-trick/ [Xor is cool]
 
 ### System & Design 
 
@@ -173,6 +174,13 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - Sonic Pi examples https://github.com/euruband/sonic-pi-examples
 - https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
 - People: https://github.com/tig3rbabu https://www.youtube.com/channel/UCHJC-u1wITtLbpxNP_lQMqw
+
+
+### Music AI
+
+- Differentiable Digital Signal Processing (timbre transfer) https://magenta.tensorflow.org/ddsp
+- Realtime Music Live with AI (prompt DJ) https://magenta.withgoogle.com/magenta-realtime
+
 
 ### Livecoding
 
