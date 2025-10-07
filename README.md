@@ -12,7 +12,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://musclewiki.com/ [ Workout ]
 - https://excalidraw.com/ [ Draw shit ]
 - https://www.inkandswitch.com/ [ Cool Software Research Blog ]
-- https://clickcalculators.com/chmod/ [ Chmod permissions calculator ]
+- https://jackschaedler.github.io/ [COMPACT PRIMER ON DIGITAL SIGNAL PROCESSING]
 
 ### Ask HN
 
