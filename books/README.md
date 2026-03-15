@@ -1,3 +1,3 @@
-Books I am reading / have read
+Books I am reading / have read w snippets & scattered thoughts
 
 started this on Dec of 2021, books I read before that are lost to time cause I forgot about em/ also too lazy 

@@ -41,10 +41,3 @@ What is now called community is merely a formation of herds. Mankind seeks refug
 
 I had often wondered why people so seldom were able to live for an ideal. Now I saw that many, yes, all men, are capable of dying for an ideal, provided that such an ideal is not personal, not chosen of their own free will. For them it had to be an ideal accepted by and common to a great number.
 
-
-
-
-
-
-
-

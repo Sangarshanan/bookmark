@@ -7,6 +7,9 @@ I enjoyed reading this book and after reading it I realized it would make for a 
 Things that made us human are gone. Faces don't matter. Names don't matter. Homes don't matter. Possessions don't matter. Shame and modesty are gone. Medicine is useless. Government is useless. Morals seem obsolete.
 
 ==========
+Memory will serve no purpose, for it will merely be able to recall the images of places but not the paths whereby we might get there.
+
+==========
 Perhaps only in a world of the blind will things be what they truly are.
 
 ==========
