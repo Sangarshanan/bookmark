@@ -151,29 +151,23 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 
 - https://www.musicca.com/piano
 - https://learningmusic.ableton.com/
-- https://towardsdatascience.com/mathematics-of-music-in-python-b7d838c84f72
-- https://webglfundamentals.org/ [ WebGl Fundamentals ]
-- http://tidalcycles.org/ [ Live coding music with Algorithmic patterns ]
 - https://github.com/terkelg/awesome-creative-coding
-- https://genuary.art/ [ Participate ]
-- https://github.com/Tonejs/Tone.js
 - https://www.youtube.com/playlist?list=PLJTWoPGfHxQH5zdZN6UlMPwZerVApkqmk [ Music Theory from the Ground Up ]
 - https://prajwalsouza.github.io/ [ Dope shit ]
 - https://github.com/toplap/awesome-livecoding/blob/master/README.md
 - https://www.youtube.com/watch?v=kuwn_DGXoNI [ Hydra visuals ]
 - https://github.com/ertdfgcvb/play.core [ live-code ] https://play.ertdfgcvb.xyz/
-- https://glicol.org/tour [ Rust livecoder ]
 - https://www.youtube.com/watch?v=1RIA9U5oXro [ Sample rate vs Bit Depth ]
 - https://musicinformationretrieval.com/index.html [ MIR ]
 - https://tympanus.net/codrops/2023/02/07/audio-reactive-shaders-with-three-js-and-shader-park/ [ Audio Reactive Shaders ]
+- https://okamirufu.com/courses (TD material)
 
 
-### Sonic Pi
+### Visual Tools
 
-- Forum https://in-thread.sonic-pi.net/t/sonic-pi-online-resources/17
-- Sonic Pi examples https://github.com/euruband/sonic-pi-examples
-- https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/cheatsheets
-- People: https://github.com/tig3rbabu https://www.youtube.com/channel/UCHJC-u1wITtLbpxNP_lQMqw
+- https://www.glyphr.xyz/
+- https://cables.gl/
+- https://videopainter.ca/
 
 
 ### Music AI
@@ -187,3 +181,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://forum.toplap.org/
 - https://livecode.nyc/
 
+
+## Interview
+
+- https://www.recurse.com/blog/192-redesigning-the-recurse-center-application
