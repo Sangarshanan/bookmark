@@ -161,6 +161,7 @@ Collection of Links, Notes, Books, Music and more random things that make up my 
 - https://musicinformationretrieval.com/index.html [ MIR ]
 - https://tympanus.net/codrops/2023/02/07/audio-reactive-shaders-with-three-js-and-shader-park/ [ Audio Reactive Shaders ]
 - https://okamirufu.com/courses (TD material)
+- https://www.libraryofshortstories.com/
 
 
 ### Visual Tools
